@@ -4,7 +4,7 @@ body {
 }
 
 main::after {
-    content: "";
+    content: ""; 
     position: fixed;
     top: 0;
     left: 0;
@@ -78,7 +78,7 @@ main .personagem .imagem {
 
 .botoes .botao {
     border: none;
-    background: none;
+    background: #000000;
     cursor: pointer;
     border-radius: 50%;
 }
